@@ -1,0 +1,17 @@
+#menuPersons {
+	background-color: #dcdcdc;
+	color: #000000;
+}
+
+#contentTable {
+	width: 40%;
+	margin-left: 60%;
+}
+
+#updateTable {
+	margin-left: 30%;
+}
+
+#manageTable {
+	width: 10%;
+}

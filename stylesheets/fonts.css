@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'molotregular';
+    src: url('/fonts/molot/molot-webfont.eot');
+    src: url('/fonts/molot/molot-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/molot/molot-webfont.svg') format('svg'),
+		 url('/fonts/molot/molot-webfont.woff') format('woff'),
+         url('/fonts/molot/molot-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'russo_oneregular';
+    src: url('/fonts/russo/russo_one-webfont.eot');
+    src: url('/fonts/russo/russo_one-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/russo/russo_one-webfont.svg') format('svg'),
+		 url('/fonts/russo/russo_one-webfont.woff') format('woff'),
+         url('/fonts/russo/russo_one-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'sansus_webissimoregular';
+    src: url('/fonts/sansus/sansus-webissimo-regular-webfont.eot');
+    src: url('/fonts/sansus/sansus-webissimo-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/sansus/sansus-webissimo-regular-webfont.svg') format('svg'),
+		 url('/fonts/sansus/sansus-webissimo-regular-webfont.woff') format('woff'),
+         url('/fonts/sansus/sansus-webissimo-regular-webfont.ttf') format('truetype');         
+    font-weight: normal;
+    font-style: normal;
+
+}

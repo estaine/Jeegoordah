@@ -1,0 +1,17 @@
+#menuTotal {
+	background-color: #dcdcdc;
+	color: #000000;
+}
+
+#contentTable {
+	width: 20%;
+	margin: auto;
+}
+
+.positiveAmount {
+	color: #004000;
+}
+
+.negativeAmount {
+	color: #400000;
+}

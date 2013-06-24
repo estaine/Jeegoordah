@@ -1,0 +1,17 @@
+#menuDirects {
+	background-color: #dcdcdc;
+	color: #000000;
+}
+
+#contentTable {
+	width: 100%;
+	margin-left: 0%;
+}
+
+#updateTable {
+	margin-left: 30%;
+}
+
+#manageTable {
+	width: 10%;
+}
